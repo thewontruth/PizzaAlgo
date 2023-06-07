@@ -1,4 +1,8 @@
-Decide where to order pizza
+Decide what restaurant to order from
 Decide what pizza to order
-Enjoy your pizza
-Testing Testing
+Call the restaurant
+Wait on the pizza
+Tip the driver
+Eat the pizza
+Put the leftovers in the fridge
+Throw away the box
